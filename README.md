@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/af23b65f-f4ee-469e-8dc3-181641d08658
 # appAmostra
 ### Criado por Gabriel Lima Villarinho e Giovanna Cristina de Santana
 <p>Protótipo de aplicativo usado para mostrar os filmes utilizados de inspiração para a criação do nosso jogo, esse protótipo contem dados reais referentes aos filmes, como orçamento, data de lançamento, elenco etc.</p>
@@ -11,3 +9,4 @@ https://github.com/user-attachments/assets/af23b65f-f4ee-469e-8dc3-181641d08658
 <p>https://github.com/giovannasantt/fangamefnaf2025</p>
 
 ## Vídeo do protótipo funcionando
+https://github.com/user-attachments/assets/af23b65f-f4ee-469e-8dc3-181641d08658
