@@ -8,5 +8,11 @@
 ## Link do repositório do jogo
 <p>https://github.com/giovannasantt/fangamefnaf2025</p>
 
+
+## Informações do protótipo
+[Sumário]()<br>
+[1. Informações Gerais]()<br>
+[2. Widgets]()<br>
+
 ## Vídeo do protótipo funcionando
 https://github.com/user-attachments/assets/af23b65f-f4ee-469e-8dc3-181641d08658
