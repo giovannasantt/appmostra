@@ -1,6 +1,9 @@
 # appAmostra
 ### Criado por Gabriel Lima Villarinho e Giovanna Cristina de Santana
-<p>repositório referente ao aplicativo para a mostra cultural 2025</p>
+<p>Protótipo de aplicativo usado para mostrar os filmes utilizados de inspiração para a criação do nosso jogo, esse protótipo contem dados reais referentes aos filmes, como orçamento, data de lançamento, elenco etc.</p>
 
 ## Link do projeto
 <p>https://www.figma.com/proto/9m7TkpFegiGqRd9nkbx1gR/protot_filme?node-id=2-3960&t=C6rRR2ANeHit5O8Y-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A3960</p>
+
+## Link do repositório do jogo
+<p>https://github.com/giovannasantt/fangamefnaf2025</p>
