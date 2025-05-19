@@ -12,7 +12,7 @@
 ## Informações do protótipo
 [Sumário](https://github.com/giovannasantt/appAmostra/wiki)<br>
 [1. Informações Gerais](https://github.com/giovannasantt/appAmostra/wiki/Informações-Gerais)<br>
-[2. Widgets]()<br>
+[2. Widgets](https://github.com/giovannasantt/appAmostra/wiki/Widgets)<br>
 
 ## Vídeo do protótipo funcionando
 https://github.com/user-attachments/assets/af23b65f-f4ee-469e-8dc3-181641d08658
