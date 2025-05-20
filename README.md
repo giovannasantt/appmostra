@@ -15,4 +15,8 @@
 [2. Widgets](https://github.com/giovannasantt/appAmostra/wiki/Widgets)<br>
 
 ## Vídeo do protótipo funcionando
-https://github.com/user-attachments/assets/af23b65f-f4ee-469e-8dc3-181641d08658
+
+
+
+https://github.com/user-attachments/assets/bee7ac8c-a309-46bd-99aa-e9d2572a89bd
+
