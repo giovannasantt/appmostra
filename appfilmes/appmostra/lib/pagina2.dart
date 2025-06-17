@@ -2,14 +2,14 @@ import 'package:flutter/material.dart';
 import 'package:appmostra/filme.dart';
 import 'package:appmostra/elenco.dart';
 
-class TelaInicio extends StatefulWidget {
-  const TelaInicio({super.key});
+class TelaFilmes extends StatefulWidget {
+  const TelaFilmes({super.key});
 
   @override
-  State<TelaInicio> createState() => _TelaInicioState();
+  State<TelaFilmes> createState() => _TelaFilmesState();
 }
 
-class _TelaInicioState extends State<TelaInicio> {
+class _TelaFilmesState extends State<TelaFilmes> {
   late PageController pageCtrl;
 
   final List<Filme> filmes = [

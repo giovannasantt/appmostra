@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:appmostra/pagina_inicial.dart';
+import 'package:appmostra/pagina2.dart';
 
 class Pagina1 extends StatelessWidget {
   const Pagina1({super.key});
@@ -33,7 +33,7 @@ class Pagina1 extends StatelessWidget {
               onPressed: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => const TelaInicio()),
+                  MaterialPageRoute(builder: (context) => const TelaFilmes()),
                 );
               },
               child: const Text('Oppenheimer'),
@@ -56,7 +56,7 @@ class Pagina1 extends StatelessWidget {
               onPressed: () {
                  Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => const TelaInicio()),
+                  MaterialPageRoute(builder: (context) => const TelaFilmes()),
                 );
               },
               child: const Text('Five Nights at freddys'),
