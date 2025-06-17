@@ -38,7 +38,7 @@ class _TelaInicioState extends State<TelaInicio> {
       '26 de outubro de 2023',
       'https://youtube.com',
     ),
-    // Aqui vc adiciona mais filmes na mesma estrutura do de cima
+    // estrutura para add mais filmes dps
   ];
 
   @override
@@ -141,7 +141,7 @@ class _TelaInicioState extends State<TelaInicio> {
               }).toList(),
             ),
           ),
-          const SizedBox(height: 10),
+          const SizedBox(height: 235),
           
           // Botão de Voltar para Pagina1
           ElevatedButton(
@@ -153,7 +153,7 @@ class _TelaInicioState extends State<TelaInicio> {
               padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 12),
             ),
             child: const Text(
-              'Voltar para Página 1',
+              'Voltar',
               style: TextStyle(color: Colors.white),
             ),
           ),

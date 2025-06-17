@@ -7,27 +7,69 @@ class Pagina1 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Página 1')),
-      body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
+       backgroundColor: const Color.fromARGB(255, 26, 26, 35),
+      appBar: AppBar(title: const Text('Início',style: TextStyle(color: Colors.white)),
+      backgroundColor: const Color.fromARGB(255, 94, 86, 141),
+       leading: IconButton(onPressed: () {}, icon: const Icon(Icons.menu)),
+      ),
+   body: Padding(
+  padding: const EdgeInsets.all(16.0),
+  child: SingleChildScrollView( 
+    scrollDirection: Axis.horizontal,
+    child: Row(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        // oppenheimer
+        Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            const Text("Filmes"),
-            Image.asset('assets/img/posteroppen.jpg', width: 220, height: 220),
-            const SizedBox(height: 20),
+            Image.asset(
+              'assets/img/posteroppen.jpg',
+              width: 140,
+              height: 220,
+            ),
+            const SizedBox(height: 10),
             ElevatedButton(
               onPressed: () {
-                // Navega para a TelaInicio
                 Navigator.push(
                   context,
                   MaterialPageRoute(builder: (context) => const TelaInicio()),
                 );
               },
-              child: const Text('Ir para Tela Inicial'),
+              child: const Text('Oppenheimer'),
             ),
           ],
         ),
-      ),
+        const SizedBox(width: 20), // Espaço 
+
+        //fnaf
+        Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Image.asset(
+              'assets/img/posterfnaf.jpg',
+              width: 180,
+              height: 220,
+            ),
+            const SizedBox(height: 10),
+            ElevatedButton(
+              onPressed: () {
+                 Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => const TelaInicio()),
+                );
+              },
+              child: const Text('Five Nights at freddys'),
+            ),
+          ],
+        ),
+      ],
+    ),
+  ),
+),
+
+
+
     );
   }
 }
