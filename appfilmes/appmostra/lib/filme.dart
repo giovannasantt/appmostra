@@ -1,6 +1,6 @@
 
 
-import 'package:appfilmes/elenco.dart';
+import 'package:appmostra/elenco.dart';
 
 class Filme {
   final String nome;
