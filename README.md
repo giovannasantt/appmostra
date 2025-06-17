@@ -20,3 +20,21 @@
 
 https://github.com/user-attachments/assets/bee7ac8c-a309-46bd-99aa-e9d2572a89bd
 
+# Informações do Aplicativo
+[Informações dos códigos do app](https://github.com/giovannasantt/appmostra/wiki/Descri%C3%A7%C3%A3o-do-aplicativo-(c%C3%B3digos))<br>
+[Informações visuais](https://github.com/giovannasantt/appmostra/wiki/Descri%C3%A7%C3%A3o-do-aplicativo-(visual))
+
+
+
+
+- O aplicativo (código e design) foi feito em trabalho conjunto.
+
+
+
+
+## Vídeo do app funcionando 
+
+https://github.com/user-attachments/assets/62b6069a-3a3a-4849-a757-ec94effb484f
+
+
+
