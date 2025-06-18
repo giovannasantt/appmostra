@@ -14,6 +14,10 @@
 [1. Informações Gerais](https://github.com/giovannasantt/appAmostra/wiki/Informações-Gerais)<br>
 [2. Widgets](https://github.com/giovannasantt/appAmostra/wiki/Widgets)<br>
 
+## Diagrama de classes do aplicativo
+![Diagrama de classes](https://github.com/user-attachments/assets/d207ee21-bbaa-4c39-b176-ec61b54d1c1e)
+
+
 ## Vídeo do protótipo funcionando
 
 
