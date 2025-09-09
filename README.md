@@ -15,7 +15,11 @@
 [2. Widgets](https://github.com/giovannasantt/appAmostra/wiki/Widgets)<br>
 
 ## Diagrama de classes do aplicativo
-![Diagrama de classes](https://github.com/user-attachments/assets/d207ee21-bbaa-4c39-b176-ec61b54d1c1e)
+
+<img width="1760" height="1360" alt="Classe UML (1)" src="https://github.com/user-attachments/assets/187016cf-e2d5-4b3a-91df-c9474893d3a0" />
+
+
+
 
 
 ## Vídeo do protótipo funcionando
