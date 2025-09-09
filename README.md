@@ -36,9 +36,11 @@ https://github.com/user-attachments/assets/bee7ac8c-a309-46bd-99aa-e9d2572a89bd
 
 
 
-## Vídeo do app funcionando 
+## Vídeo do app funcionando (atualizado)
 
-https://github.com/user-attachments/assets/62b6069a-3a3a-4849-a757-ec94effb484f
+
+
+https://github.com/user-attachments/assets/cb1e77d5-d3cd-48df-8a82-7d96b1a9e155
 
 
 
