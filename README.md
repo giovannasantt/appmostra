@@ -1,5 +1,5 @@
 # appmostra
-### Criado por Gabriel Lima Villarinho e Giovanna Cristina de Santana
+### Criado por Guatavo da Silva Rezende e Giovanna Cristina de Santana
 <p>Protótipo de aplicativo usado para mostrar os filmes utilizados de inspiração para a criação do nosso jogo, esse protótipo contem dados reais referentes aos filmes, como orçamento, data de lançamento, elenco etc.</p>
 
 ## Link do projeto
