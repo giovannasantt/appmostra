@@ -2,6 +2,7 @@ class Elenco {
   final String ator;
   final String personagem;
 
-  Elenco (this.ator, this.personagem);
-  Visualizar(){}
+  Elenco(this.ator, this.personagem);
+
+  
 }
